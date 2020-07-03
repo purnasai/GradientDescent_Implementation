@@ -7,6 +7,9 @@ This repository contains the code to implement gradient descent in python using 
 - GDAlgorithms: Contains code to implementing various gradient descent algorithum in sigmoid neuron.
 - VectorisedGDAlgorithms: Contains code to implementing different gradient descent algorithums in feed forward neural network
 
+### Blog
+- A clear explanation of the Codes in this repo can be found in this [Blog](https://towardsdatascience.com/batch-normalization-and-dropout-in-neural-networks-explained-with-pytorch-47d7a8459bcd)
+
 ## Jump into code
 
 - Different Types of Gradient Descent Optimizers in Sigmoid Neuron
